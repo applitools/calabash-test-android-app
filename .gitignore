@@ -7,3 +7,9 @@
 /build
 /captures
 .externalNativeBuild
+logs
+tmp
+debug_screenshots
+test_servers
+.irb-history
+.idea
