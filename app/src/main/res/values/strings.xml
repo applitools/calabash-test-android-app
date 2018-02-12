@@ -5,9 +5,6 @@
     <string name="btn_horizontal_scroll_label">Horizontal Scroll View</string>
     <string name="title_activity_list_view_example">ListViewExample</string>
     <string name="action_settings">Settings</string>
-    <string name="long_text">Just over two years after candidate Donald Trump mocked John McCain\'s Vietnam War record, noting that he prefers heroes "who weren\'t captured", the Arizona senator stuck a dagger in President Trump\'s healthcare reform plans.
-There were gasps when Mr McCain, after being furiously lobbied by Vice-President Mike Pence, joined two other Republican senators in voting against the so-called "skinny" repeal plan, considered the bare minimum Senate Republicans could agree on.
-Instead of a big step toward becoming law - either in its skinny form or after further negotiations with the House of Representatives - the future of Obamacare repeal has been thrown into doubt.
-The reality is, for now, there is no minimum level of change on which Senate Republicans can agree. They either have to work with Democrats or resign themselves to stalemate and move on to other topics, like taxes or infrastructure spending.</string>
+    <string name="long_text">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget dolor orci. Praesent orci nulla, finibus et arcu quis, fermentum gravida ante. Donec vehicula mauris arcu, imperdiet sagittis lectus sodales et. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris tellus libero, gravida sed dui sed, dictum viverra arcu. Sed eget lectus ante. Maecenas eleifend vel ligula vitae pharetra. Aliquam dictum felis ac egestas iaculis. Integer laoreet cursus leo. Sed vitae lobortis elit. Nulla porttitor, sem et elementum mollis, eros sem placerat massa, quis ultricies ante nisl nec ipsum. Pellentesque odio lacus, consectetur eget mauris vitae, congue porta nisl. Mauris ut arcu faucibus, suscipit diam et, semper metus. Sed commodo malesuada arcu, vitae condimentum nunc porttitor a.  "</string>
     <string name="btn_text_view_label">Text View</string>
 </resources>
