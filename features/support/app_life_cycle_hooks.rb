@@ -6,9 +6,6 @@ Before do |scenario|
 end
 
 After do |scenario|
-  if scenario.failed?
-    screenshot_embed
-  end
   shutdown_test_server
 end
 
