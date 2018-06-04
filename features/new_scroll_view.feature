@@ -31,7 +31,7 @@
 @eyes_app_name "Android Calabash SDK"
 #  @eyes_api_key "A KEY"
 
-Feature: Feature to debug ScrollView full page
+Feature: Applitools Eyes Calabash SDK base functionality
   @eyes_test_name "Check window without ScrollView"
   Scenario: I get into screen containing scroll view
     When I wait
